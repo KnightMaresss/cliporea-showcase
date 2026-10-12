@@ -101,7 +101,7 @@ Screenshots of the platform:
 
 ## 👤 Author
 
-**Waleed Al-Maqtari (KnightMares)**
+**Waleed (KnightMares)**
 - GitHub: [@KnightMaresss](https://github.com/KnightMaresss)
 - Email: waleedalmaqtari10@gmail.com
 
